@@ -14,7 +14,7 @@ A aplicação deverá ser desenvolvida com o framework 'serverless' e deverá se
 
 Passo a passo para iniciar o projeto:
 
-1. Crie a branch para o seu grupo e efetue o clone
+1. Crie um repositório para sua equipe;
 
 2. Instale o framework serverless em seu computador. Mais informações [aqui](https://www.serverless.com/framework/docs/getting-started)
 
@@ -259,7 +259,6 @@ Dessa maneira essa será a arquitetura a ser implantada:
 - **O trabalho deve ser feito em grupos de três ou quatro pessoas**;
 - Criar um repositório no Github;
   - Colocar os avaliadores como membros do repositório criado; 
-- Conferir se a API desejada já não foi escolhida por outra equipe;
 - Subir o trabalho no repositório da equipe com um README.md:
   - documentar detalhes sobre como a avaliação foi desenvolvida;
   - dificuldades conhecidas;
